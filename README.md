@@ -20,5 +20,5 @@ Entwickler:
 
 # Note:
 Das Projekt wurde mittlerweile erweiterert um ein login, sowie eine Rangliste und entsprechendes web-hosting.
-Das aktuelleste Version ist momentan nur auf dem hochschulinternen GitLab zu finden. 
+Die aktuelleste Version ist momentan nur auf dem hochschulinternen GitLab zu finden. 
 
